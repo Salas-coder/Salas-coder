@@ -24,28 +24,26 @@ Também tenho interesse em **Inteligência Artificial** e em como novas tecnolog
 
 ---
 
-## 📌 Projetos em destaque
+## 📂 Projetos
 
-<a href="https://github.com/Salas-coder/checkout-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salas-coder&repo=checkout-react&theme=transparent&hide_border=true" />
-</a>
+### 🔹 Checkout React
 
-<a href="https://github.com/Salas-coder/frontend-job-match">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salas-coder&repo=frontend-job-match&theme=transparent&hide_border=true" />
-</a>
+Aplicação de checkout desenvolvida com React, Vite, React Hook Form e Zod.
 
-<a href="https://github.com/Salas-coder/SkillMatch-Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salas-coder&repo=SkillMatch-Web&theme=transparent&hide_border=true" />
-</a>
+[🔗 Ver projeto](https://github.com/Salas-coder/checkout-react)
 
----
+### 🔹 Frontend Job Match
 
-## 📊 GitHub
+Projeto voltado para desenvolvimento Front-End e análise de vagas.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Salas-coder&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salas-coder&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-</p>
+[🔗 Ver projeto](https://github.com/Salas-coder/frontend-job-match)
+
+### 🔹 SkillMatch Web
+
+Aplicação desenvolvida como projeto de estudo utilizando JavaScript.
+
+[🔗 Ver projeto](https://github.com/Salas-coder/SkillMatch-Web)
+
 
 ---
 
